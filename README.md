@@ -4,6 +4,7 @@ Clone do aplicativo Picpay para fins de estudar e aprimorar os conhecimentos em 
 ## Layout
 
 <img src="https://github.com/viniciusbls9/clone-picpay/blob/master/assets/git/inicial.png" />
+<img src="https://github.com/viniciusbls9/clone-picpay/blob/master/assets/git/carteira.png" />
 
 ## Ferramentas
 
